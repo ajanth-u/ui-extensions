@@ -1,5 +1,11 @@
 # @shopify/ui-extensions
 
+## 2026.5.0
+
+### Minor Changes
+
+- [#4527](https://github.com/Shopify/ui-extensions/pull/4527) [`9e879de`](https://github.com/Shopify/ui-extensions/commit/9e879def119c8fb20d121faf18e2b6331bc5f13f) Thanks [@cpeddecord](https://github.com/cpeddecord)! - Release the `Chat` component (`s-chat`) to checkout UI extensions.
+
 ## 2026.4.4
 
 ### Patch Changes
