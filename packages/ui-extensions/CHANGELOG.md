@@ -1,5 +1,11 @@
 # @shopify/ui-extensions
 
+## 2026.7.2
+
+### Patch Changes
+
+- [#4583](https://github.com/Shopify/ui-extensions/pull/4583) [`ae2cd13`](https://github.com/Shopify/ui-extensions/commit/ae2cd13acee575bef8ed5e6049cdb59da433f427) Thanks [@sylvhama](https://github.com/sylvhama)! - Hide the `tertiary` button variant from the generated `s-button` documentation while preserving the existing public type.
+
 ## 2026.7.1
 
 ### Patch Changes
